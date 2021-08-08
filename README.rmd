@@ -1,0 +1,9 @@
+---
+title: "README.md"
+author: "Greg Norris"
+date: "8/8/2021"
+output: md_document
+---
+
+# Workout Creator
+The end goal of this project is to have a custom iphone app that will take a repository of workouts and generate weekly schedules.
